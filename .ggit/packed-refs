@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+19d642c94d3ded9b04e96df0483de085b7eb9f51 refs/remotes/origin/develop
+428b6667091ba1e1437f6e534776914bc8dfe3a0 refs/remotes/origin/feature_payment_calc
+407d410a3cf1914eda835080422e255c5c3fd95a refs/remotes/origin/feature_timepicker_multiple
